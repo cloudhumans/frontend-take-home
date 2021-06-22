@@ -50,7 +50,8 @@ You may use any language and framework provided that you build a solid system wi
 Be aware that we will mainly take into consideration the following evaluation criteria:
 * Good form inputs (with masks, error handlers, etc);
 * How clean and organized your code is;
-* How good your automated tests are (qualitative over quantitative).
+* How good your automated tests are (qualitative over quantitative);
+* Publish your final static build (we recommend https://surge.sh/). 
 
 Other important notes:
 * Add to the README file: (1) instructions to run the code; (2) what were the main technical decisions you made; (3) relevant comments about your project 
