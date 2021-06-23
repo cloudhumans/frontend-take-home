@@ -7,7 +7,7 @@ Cloud Humans determines which project a new Pro will tackle based on the answers
 For this assignment, you will create a simple version of that application by coding a page with the Pro application form - you don’t have to worry about the API.
 
 ## The layout
-You must follow [this layout](https://www.figma.com/file/HhLmn5czZCYmMFUOePcTZB/Cloud-Humans-Frontend-Take-Home?node-id=0%3A1) but you're free to modify, add some animations and cool things (keep in mind you will be evaluated for every change).
+You must follow [this layout](https://www.figma.com/file/HhLmn5czZCYmMFUOePcTZB/Cloud-Humans-Frontend-Take-Home?node-id=0%3A1) but you're free to modify, add some animations and cool things.
 
 You don't need to worry about mobile resolution, the minimun width required is `1280px` and the max width is `1920px`, the application must work fine to this width range.
 
